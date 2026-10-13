@@ -1,7 +1,7 @@
 c=0
 d=0
 import random
-for x in range (10) :
+for x in range (1) :
  for i in range(1):
     age = random.randint(21, 65)
     print("age of the client is:", age)
